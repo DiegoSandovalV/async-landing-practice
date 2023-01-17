@@ -41,4 +41,4 @@ async function fetchData(urlAPI){
     }
 })();
 
-console.log("llega);
+console.log("llega");
