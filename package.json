@@ -1,0 +1,23 @@
+{
+  "name": "async-landing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoSandovalV/async-landing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoSandovalV/async-landing-practice/issues"
+  },
+  "homepage": "https://github.com/DiegoSandovalV/async-landing-practice#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
